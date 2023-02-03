@@ -5,9 +5,10 @@
 - I would like to mainly work more on Java/C# projects, Java Android apps, DBMS projects and AI
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=radical" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical" />
-<br><ul>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical" />  
+
 <h4>Some of my favourite projects:</h4>
+<ul>
 <li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
 <li><a href="https://github.com/PatroklosGeorgiadis/SmartAssistant-UI-Framework">Activity Planner and Smart Home Application (Frontend C#)</a></li>
 <li><a href="https://github.com/PatroklosGeorgiadis/TravelingSalesman">Traveling Salesman Problem (AI Python)</a></li>
