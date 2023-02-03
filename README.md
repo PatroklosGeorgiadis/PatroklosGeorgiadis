@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=cobalt)
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=cobalt">
 <!--
 **PatroklosGeorgiadis/PatroklosGeorgiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
