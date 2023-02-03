@@ -4,8 +4,8 @@
 - Junior Software Developer
 - I would like to mainly work more on Java/C# projects, Java Android apps, DBMS projects and AI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical">
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=radical">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical">
 <!--
 **PatroklosGeorgiadis/PatroklosGeorgiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
