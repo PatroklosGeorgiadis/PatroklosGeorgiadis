@@ -6,13 +6,13 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=radical" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical" />
-<br><p>
+<br><ul>
 <h4>Some of my favourite projects:</h4>
-<a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a>
-<a href="https://github.com/PatroklosGeorgiadis/SmartAssistant-UI-Framework">Activity Planner and Smart Home Application (Frontend C#)</a>
-<a href="https://github.com/PatroklosGeorgiadis/TravelingSalesman">Traveling Salesman Problem (AI Python)</a>
-<a href="https://github.com/PatroklosGeorgiadis/SmartAlert">Gradle-Java Android app for Reporting Emergencies (Android app using Firebase)</a>
- </p>
+<li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
+<li><a href="https://github.com/PatroklosGeorgiadis/SmartAssistant-UI-Framework">Activity Planner and Smart Home Application (Frontend C#)</a></li>
+<li><a href="https://github.com/PatroklosGeorgiadis/TravelingSalesman">Traveling Salesman Problem (AI Python)</a></li>
+<li><a href="https://github.com/PatroklosGeorgiadis/SmartAlert">Gradle-Java Android app for Reporting Emergencies (Android app using Firebase)</a></li>
+ </ul>
 <!--
 **PatroklosGeorgiadis/PatroklosGeorgiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
