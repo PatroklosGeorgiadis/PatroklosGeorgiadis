@@ -6,7 +6,7 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=PatroklosGeorgiadis&count_private=true&show_icons=true&theme=radical" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical" />  
-
+<br clear="left"/>
 <h4>Some of my favourite projects:</h4>
 <ul>
 <li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
