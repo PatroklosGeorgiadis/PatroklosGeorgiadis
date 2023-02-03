@@ -8,7 +8,7 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatroklosGeorgiadis&count_private=true&theme=radical" />
 <p>
 ##### Some of my favourite projects:
-- [Developer Hiring Platform](https://github.com/JasonSDMN2001/Soft_tech_team5) (Backend C#)
+<a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a>
 - [Activity Planner and Smart Home Application](https://github.com/PatroklosGeorgiadis/SmartAssistant-UI-Framework) (Frontend C#)
 - [Traveling Salesman Problem](https://github.com/PatroklosGeorgiadis/TravelingSalesman) (AI Python)
 - [Gradle-Java Android app for Reporting Emergencies](https://github.com/PatroklosGeorgiadis/SmartAlert) (Android app using Firebase)
