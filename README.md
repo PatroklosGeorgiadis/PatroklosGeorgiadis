@@ -10,9 +10,9 @@
 <h4>Some of my favourite projects:</h4>
 <ul>
 <li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
+<li><a href="https://github.com/PatroklosGeorgiadis/SmartAlert">Gradle-Java Android app for Reporting Emergencies (Android app using Firebase)</a></li>
 <li><a href="https://github.com/PatroklosGeorgiadis/SmartAssistant-UI-Framework">Activity Planner and Smart Home Application (Frontend C#)</a></li>
 <li><a href="https://github.com/PatroklosGeorgiadis/TravelingSalesman">Traveling Salesman Problem (AI Python)</a></li>
-<li><a href="https://github.com/PatroklosGeorgiadis/SmartAlert">Gradle-Java Android app for Reporting Emergencies (Android app using Firebase)</a></li>
  </ul>
  
  <h4>Projects I've contributed to:</h4>
