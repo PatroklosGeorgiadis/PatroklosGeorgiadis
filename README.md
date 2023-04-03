@@ -14,6 +14,12 @@
 <li><a href="https://github.com/PatroklosGeorgiadis/TravelingSalesman">Traveling Salesman Problem (AI Python)</a></li>
 <li><a href="https://github.com/PatroklosGeorgiadis/SmartAlert">Gradle-Java Android app for Reporting Emergencies (Android app using Firebase)</a></li>
  </ul>
+ 
+ <h4>Projects I've contributed to:</h4>
+ <ul>
+ <li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
+ <li><a href="https://github.com/michalis-vslk/Virtual_Reality-game_tech">Virtual reality Platform (Unity/URP/C#)</a></li>
+ </ul>
 <!--
 **PatroklosGeorgiadis/PatroklosGeorgiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
