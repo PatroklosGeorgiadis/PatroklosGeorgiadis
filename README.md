@@ -18,6 +18,7 @@
  <ul>
  <li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Developer Hiring Platform (Backend C#)</a></li>
  <li><a href="https://github.com/michalis-vslk/Virtual_Reality-game_tech">Virtual reality Platform (Unity/URP/C#)</a></li>
+ <li><a href="https://github.com/michalis-vslk/auto_speech_recognition">Automatic Speech Recognition System for digits (Python/librosa)</a></li>
  </ul>
 <!--
 **PatroklosGeorgiadis/PatroklosGeorgiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
